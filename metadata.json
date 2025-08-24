@@ -1,0 +1,5 @@
+{
+  "name": "AI Business Pitch Generator",
+  "description": "An AI-powered tool for students to generate structured business pitches from their startup ideas. It provides elevator pitches, taglines, slide content, and more to help prepare for hackathons and pitch fests.",
+  "requestFramePermissions": []
+}
